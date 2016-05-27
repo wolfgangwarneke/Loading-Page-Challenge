@@ -2,6 +2,16 @@ body {
   background-color: #ffeecc;
 }
 
+.container {
+  margin-top: -50px;
+}
+
+@media (min-width: 768px) {
+  .container {
+      margin-top: -39px;
+  }
+
+  }
 
 /* ========
 header
