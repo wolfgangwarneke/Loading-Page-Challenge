@@ -2,7 +2,16 @@
 /* ========
 About Me
 ======== */
-
+  /* photo */
 #mypic {
   max-height: 200px;
+}
+
+  /* personal background */
+
+
+
+  /* why I'm learning to code */
+#whylearn {
+  color: red;
 }
