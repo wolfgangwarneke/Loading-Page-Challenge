@@ -8,7 +8,10 @@ About Me
 }
 
   /* personal background */
-
+ul {
+  list-style: none;
+  padding-left: 4%;
+}
 
 
   /* why I'm learning to code */
