@@ -1,12 +1,11 @@
-/*21A7E7, 27759A, 27556C, 1D323D, 080C0E*/
 body {
     background-color: #1D323D;
 }
 
 /* PAGE HEADER */
 .page-header {
-  border-bottom-left-radius: 3px;
-  border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
 }
 
 .page-header, .footer {
@@ -152,8 +151,8 @@ ul li ul li {
 
 @media screen and (min-width: 750px) and (max-width: 1050px) {
     li, li li {
-      padding-bottom: 3px;
-      padding-top: 3px;
+        padding-bottom: 3px;
+        padding-top: 3px;
     }
 }
 
